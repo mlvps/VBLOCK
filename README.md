@@ -3,6 +3,7 @@ Free and easy tool to appear offline in Valorant!
 
 HOW TO USE IT:
 
+Download the VBLOCK files folder!
 You can either open the exe file as an administrator, or you could open the shortcut.
 After opening, just tap activate, to activate the tool!
 

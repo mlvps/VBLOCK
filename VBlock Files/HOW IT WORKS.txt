@@ -1,0 +1,20 @@
+--------------------------------------------
+
+Little Tutorial how to run VBlock correctly:
+
+Simply ignore all the other files and run
+VBLOCK.exe as administrator!
+
+Or: open the shortcut of VBLOCK.exe
+
+You can move the shortcut to the location
+you prefer!
+
+To fix it on taskbar just open the program
+then right click on the icon on the task bar
+and tap pin to task bar.
+
+Hope you enjoy my tool!
+- mlv.ps
+
+--------------------------------------------
